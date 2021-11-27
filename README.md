@@ -24,6 +24,7 @@
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-black.svg?&style=flat-square&logo=Babel&logoColor=%23f5da55)
+![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=flat-square&logo=Webpack&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-
