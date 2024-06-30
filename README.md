@@ -1,8 +1,5 @@
 ## Hey, I'm Scott Provence
 
-### Check out my portfolio
-#### [My Portfolio](https://scopro220.github.io/)
-
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sprovence//)](https://www.linkedin.com/in/sprovence/)
 
